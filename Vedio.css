@@ -1,0 +1,362 @@
+
+
+
+
+#_imga {
+  height: 43px;
+  width: 170px;
+  padding: 19px 17px 17px 18px;
+  cursor: pointer;
+}
+#_Home {
+  font-size: 18px;
+  text-decoration: none;
+  padding-left: 550px;
+  cursor: pointer;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
+}
+#_Home:link {
+  color: white;
+}
+#_Home:visited {
+  color: whitesmoke;
+}
+#_form {
+  height: 80px;
+  background-image: linear-gradient(
+    to right,
+    rgb(30, 16, 153),
+    rgb(153, 51, 173)
+  );
+  position: fixed;
+  top: 0%;
+  left: 0%;
+  right: 0%;
+}
+#_About {
+  font-size: 18px;
+  text-decoration: none;
+  padding-left: 30px;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
+
+  cursor: pointer;
+}
+#_About:link {
+  color: white;
+}
+#_About:visited {
+  color: white;
+}
+#_Select {
+  background-color: rgb(153, 51, 173);
+  height: 10px;
+  width: 18px;
+  padding: 0px;
+  color: white;
+}
+#_Select:hover {
+  color: white;
+}
+#_Select:focus {
+  color: rgb(71, 85, 46);
+}
+
+#_contact {
+  font-size: 18px;
+  text-decoration: none;
+  padding-left: 30px;
+  cursor: pointer;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
+}
+#_contact:link {
+  color: white;
+}
+#_contact:visited {
+  color: white;
+}
+
+#_Gallery {
+  font-size: 18px;
+  text-decoration: none;
+  padding-left: 30px;
+  cursor: pointer;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
+}
+#_Gallery:link {
+  color: white;
+}
+#_Gallery:visited {
+  color: white;
+}
+#_login {
+  font-size: 18px;
+  text-decoration: none;
+  padding-left: 30px;
+  cursor: pointer;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
+}
+#_login:link {
+  color: white;
+}
+#_login:visited {
+  color: white;
+}
+#_span {
+  font-size: 18px;
+  padding-left: 30px;
+  color: white;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
+}
+
+.option1 {
+  color: white;
+  font-size: 17px;
+}
+
+
+
+
+
+
+
+
+body{
+  padding: 0px;
+  margin: 0px;
+}
+
+
+#heading1 {
+text-align: center;
+font-size: 90px;
+}
+
+#span1 {
+color: rgb(148, 11, 91);
+text-decoration: underline;
+}
+
+#feelancingimg {
+height: 350px;
+width: 100%;
+margin-top: 80px;
+}
+
+#heading4 {
+color: red;
+text-align: center;
+margin-top: 110px;
+}
+
+.loat {
+float: left;
+width: 40%;
+padding-left: 20px;
+height: 45px;
+box-shadow: inset 0px 30px 70px 30px whitesmoke;
+margin-left: 90px;
+padding-top: 12px;
+font-size: 30px;
+font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
+  margin-top: 30px;
+
+
+}
+#_div{
+  margin-top: 70px;
+}
+.jloat {
+  float: left;
+  width: 40%;
+  padding-left: 20px;
+  height: 75px;
+  box-shadow: inset 0px 30px 70px 30px whitesmoke;
+  margin-left: 90px;
+  padding-top: 12px;
+  font-size: 30px;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
+ margin-top: 30px;
+
+}
+.a{
+  float: left;
+  width: 40%;
+  height: 90px;
+  margin-left: 90px;
+ margin-top: 30px;
+
+}
+#ert{
+height: 90px;
+width: 180px;
+}
+#divmain{
+    margin-top: 120px;
+}
+
+
+#_button {
+  color: white;
+  background-color: rgb(136, 9, 136);
+  height: 45px;
+  width: 170px;
+  border-radius: 5px 5px 5px 5px;
+  font-size: 17px;
+  background-image: linear-gradient(
+    to right,
+    rgb(158, 152, 209),
+    rgb(173, 33, 145)
+  );
+  margin-left: 600px;
+  margin-top:40px ;
+}
+#colo{
+    color: rgb(173, 33, 145);
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
+    text-decoration: underline;
+}
+#trr{
+    
+    margin-left: 80px;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
+}
+#tyu{
+    float: left;
+    width: 59%;
+}
+#gtj{
+    font-size: 18px;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
+    margin-left:70px ;
+    text-align: justify;
+    padding-top: 25px;
+}
+#tryu{
+    height: 450px;
+    width: 450px;
+    padding-left: 50px;
+}
+#wer{
+  float: right;
+  width: 41%;
+}
+#_h12{
+margin-top: 50px;
+margin-left: 130px;
+font-size: 80px;
+font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
+display: inline-block;
+margin-bottom: 60px;
+}
+.iop{
+color: rgb(173, 33, 145) ;
+text-decoration: underline;
+display: inline-block;
+margin-left: 150px;
+margin-top: 50px;
+font-size: 30px;
+font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
+}
+#div12{
+
+display: inline-block;
+}
+.lliop{
+color: rgb(173, 33, 145) ;
+text-decoration: underline;
+display: inline-block;
+margin-left: 150px;
+margin-top: 50px;
+}
+.wwwwwwwert{
+font-size: 20px;
+font-weight: bold;
+}
+
+#tf{
+height: 50px;
+background-image:linear-gradient(to left,rgb(30, 16, 153),rgb(153, 51, 173));
+text-align: center;
+color: white;
+font-size: 15px;
+padding-top: 35px;
+font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
+}
+#mk{
+margin: 20px 20px 10px 100px;
+color: white;
+font-weight: bold;
+font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
+padding-top: 40px 
+
+
+}
+#pl{
+float: left;
+width: 60%;
+}
+#jyt{
+display: inline-block;
+padding-left:100px ;
+color: white;
+}
+.hyt{
+height: 20px;
+width: 20px;
+color: rgb(12, 12, 153);
+padding: 0px 5px 0px 5px;
+}
+#gtf{
+display: inline-block;
+
+}
+#frt{
+padding: 60px 10px 20px 10px;
+color: white;
+font-weight: bold;
+font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
+}
+#wet{
+padding-left: 29%;
+}
+#qaz{
+color: rgb(8, 15, 117);
+}
+.dlv{
+color: white;
+}
+#ft{
+height: 250px;
+background-image:linear-gradient(to right,rgb(30, 16, 153),rgb(153, 51, 173));
+margin-top: 70px;
+}
+
+
+
+
+
+.dert{
+font-size: 30px;
+font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
+}
+.eretfd{
+padding-left: 145px;
+font-size: 20px;
+}

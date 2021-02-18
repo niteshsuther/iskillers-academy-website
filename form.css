@@ -1,0 +1,118 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#div1{
+    background-image: linear-gradient(to right,rgb(9, 9, 121),rgb(182, 41, 142));
+    height: 60px;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    padding-top: 25px;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
+}
+#rtyj{
+    width: 550px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 20px 0px rgb(157, 147, 147);
+    margin-bottom: 50px;
+
+}
+#qwe{
+    height: 55px;
+    width: 200px;
+    margin-left: 175px;
+    margin-top: 15px;
+}
+
+#sfs{
+    padding: 20px 50px 30px 50px;
+}
+.wert{
+    height: 40px;
+    width: 440px;
+    padding-left: 10px;
+    margin-top: 20PX;
+    color: rgb(169, 24, 99);
+    border-radius: 5px;
+    border: none;
+    border: 1px solid  rgb(169, 24, 99);
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
+    }
+.weyrt{
+    height: 40px;
+    width: 450px;
+    padding-left: 10px;
+    margin-bottom: 20PX;
+    border-color: rgb(169, 24, 99);
+    color: rgb(169, 24, 99);
+    border-radius: 5px;
+    cursor: pointer;
+
+    
+}   
+.weyttrt{
+    height: 37px;
+    width: 438px;
+    border-radius: 5px;
+    color: rgb(169, 24, 99);
+    border-color: rgb(169, 24, 99);
+    border: none;
+    border: 1px solid  rgb(169, 24, 99);
+    padding-left: 10px;
+
+}
+
+#dffffffffff{
+    font-size: 12px;
+    
+    
+}  
+.assas{
+    margin-top: 20px
+}
+
+#ertyyy{
+    color: rgb(29, 173, 192);
+    background-color: white;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    margin-left: 200px;
+    text-decoration: none;
+    }
+    
+    #ertyyy:hover{
+    color: rgb(25, 72, 174);
+    text-decoration: underline;
+    }
+    #ertyyy:visited{
+         color: rgb(29, 173, 192);
+         background-color: white;
+         text-decoration: none;
+        
+        }
+        
+#gjhghjj{ 
+    color: rgb(172, 15, 101);
+    background-color: white;
+   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    cursor: pointer;
+    margin-left: 30px;
+}
+#jieofhbsdm{
+    height: 45px;
+   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+   width: 200px;
+   background-image: linear-gradient(to right,rgb(4, 4, 111),rgb(208, 18, 154));
+   margin-bottom: 40px;
+   text-align: center;
+   margin-left: 180px;
+   border-radius: 20px;
+   color: white;
+   border: none;
+   font-size: 20px;
+   padding-bottom: 6px;
+}

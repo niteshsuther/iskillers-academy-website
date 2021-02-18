@@ -1,0 +1,120 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(247, 231, 241);
+}
+#div1{
+    background-image: linear-gradient(to right,rgb(9, 9, 121),rgb(182, 41, 142));
+    width: 550px;
+    height: 50px;
+    margin: auto;
+    border-radius: 5px 5px 5px 5px ;
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+    font-size: 20px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+
+}
+#ett{
+    width: 550px;
+    margin: auto;
+    margin-top: 100px ;
+    height: 410px;
+    margin-bottom: 150px;
+    border-radius: 5px 5px 5px 5px ;
+    box-shadow: 0px 10px 8px 1px rgb(154, 148, 160);
+    background-color: white;
+
+}
+._input{
+    height: 35px;
+    margin: 20px 50px 0px 50px;
+    background-color: white;
+    border-radius: 7px;
+    padding-left:20px ;
+    border: none;
+    border: 1px solid;
+    width: 420px;
+    border-color: rgb(184, 64, 144);
+    color: rgb(184, 64, 144);
+    font-size: 12px;
+}
+#rtyuioju{
+    color: blue;
+    height: 50px;
+    width: 180px;
+    margin-left: 180px;
+    margin-top: 20px;
+    background-color: white;
+
+}
+#dfgghhjjkl{
+    background-color: white;
+}
+#gjhghjj{
+    padding-left: 50px;
+    color: rgb(172, 15, 101);
+    background-color: white;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+#ertyyy{
+color: rgb(29, 173, 192);
+background-color: white;
+font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
+text-decoration: none;
+}
+
+
+#ertyyy:hover{
+color: rgb(25, 72, 174);
+text-decoration: underline;
+}
+#ertyyy:visited{
+     color: rgb(29, 173, 192);
+     font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
+     background-color: white;
+     text-decoration: none;
+    
+    }
+  #jhjkjkkkjkk{
+    color: rgb(172, 15, 101);
+    background-color: white;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 110px;
+  }
+
+  #jhjkjkkkjkk :visited{
+    color: rgb(172, 15, 101);
+   
+    background-color: white;
+    text-decoration: none;
+    
+  }
+
+#qwertyui{
+    background-image: linear-gradient(to right,rgb(9, 9, 121),rgb(177, 46, 140));
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 180px;
+    margin-top: 30px;
+    font-size: 17px;
+    color: white;
+    border-color: rgb(223, 127, 223);
+    box-shadow:  0px 5px 5px 2px rgb(188, 186, 189);
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+}
+
